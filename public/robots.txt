@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elite-erp-8cff4c64.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
