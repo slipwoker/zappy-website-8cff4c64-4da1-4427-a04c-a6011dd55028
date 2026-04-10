@@ -1,0 +1,46 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-04-10T07:05:01.699Z
+# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
+# This file is kept for reference only
+
+/about  /about.html  200!
+/jobs  /jobs.html  200!
+/contact  /contact.html  200!
+/priority/priority-pro  /priority/priority-pro.html  200!
+/priority%2Fpriority-zoom-%D7%96%D7%95%D7%9D-%D7%9C%D7%A2%D7%A1%D7%A7%D7%99%D7%9D  /priority/priority-zoom-זום-לעסקים/index.html  200!
+/priority%2F%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99-%D7%AA%D7%A2%D7%A9%D7%99%D7%99%D7%AA%D7%99%D7%AA  /priority/מערכת-פריוריטי-תעשייתית/index.html  200!
+/priority/priority-high-tech  /priority/priority-high-tech.html  200!
+/%D7%94%D7%98%D7%9E%D7%A2%D7%AA-%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99-%D7%95%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99-%D7%96%D7%95%D7%9D  /הטמעת-פריוריטי-ופריוריטי-זום/index.html  200!
+/priority-cloud  /priority-cloud.html  200!
+/%D7%A4%D7%99%D7%AA%D7%95%D7%97-%D7%95%D7%91%D7%99%D7%A6%D7%95%D7%A2-%D7%94%D7%AA%D7%90%D7%9E%D7%95%D7%AA-%D7%AA%D7%95%D7%9B%D7%A0%D7%94-%D7%91%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99  /פיתוח-וביצוע-התאמות-תוכנה-בפריוריטי/index.html  200!
+/%D7%94%D7%98%D7%9E%D7%A2%D7%AA-%D7%9E%D7%A2%D7%A8%D7%9B%D7%95%D7%AA-%D7%A0%D7%9C%D7%95%D7%95%D7%AA-%D7%9C%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99  /הטמעת-מערכות-נלוות-לפריוריטי/index.html  200!
+/%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA%D7%99%D7%A0%D7%95  /לקוחותינו/index.html  200!
+/customer-satisfaction  /customer-satisfaction.html  200!
+/projects  /projects.html  200!
+/priority-blog/priority-course-bookkeepers  /priority-blog/priority-course-bookkeepers.html  200!
+/info  /info.html  200!
+/courses  /courses.html  200!
+/%D7%9E%D7%95%D7%A6%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99-2  /מוצרי-פריוריטי-2/index.html  200!
+/products/priority-zoom  /products/priority-zoom.html  200!
+/%D7%9E%D7%95%D7%A6%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99%2Fpriority-pro  /מוצרי-פריוריטי/priority-pro/index.html  200!
+/%D7%9E%D7%95%D7%A6%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99%2F%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99-%D7%AA%D7%A2%D7%A9%D7%99%D7%99%D7%AA%D7%99%D7%AA  /מוצרי-פריוריטי/מערכת-פריוריטי-תעשייתית/index.html  200!
+/products/industrial-priority  /products/industrial-priority.html  200!
+/products/commercial-priority  /products/commercial-priority.html  200!
+/blog/priority-zoom-differences  /blog/priority-zoom-differences.html  200!
+/%D7%9E%D7%95%D7%A6%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%95%D7%A8%D7%99%D7%98%D7%99%2Fpriority-zoom-%D7%96%D7%95%D7%9D-%D7%9C%D7%A2%D7%A1%D7%A7%D7%99%D7%9D  /מוצרי-פריוריטי/priority-zoom-זום-לעסקים/index.html  200!
+/blog/priority-assimilation  /blog/priority-assimilation.html  200!
+/blog/choosing-erp-system-implementer  /blog/choosing-erp-system-implementer.html  200!
+/products/priority-pro  /products/priority-pro.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# SPA fallback - serve index.html for all unmatched routes
+/*  /index.html  200

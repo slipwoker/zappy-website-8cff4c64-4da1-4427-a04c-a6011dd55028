@@ -1,0 +1,157 @@
+# Elite ERP — Generative Engine Optimization Map
+
+> Elite ERP is a specialized Israeli company focused on implementing and deploying the Priority ERP system for businesses. The company positions itself as an expert in this niche software solution, helping organizations integrate and optimize their operations through Priority. The brand carries a professional, technology-driven identity with a focus on business efficiency and expertise.
+
+---
+
+## Pages
+
+### Home
+https://elite-erp-8cff4c64.zappy5.app
+Elite ERP is a specialized Israeli company focused on implementing and deploying the Priority ERP system for businesses. The company positions itself as an expe
+
+### אודות Elite Erp
+https://elite-erp-8cff4c64.zappy5.app/about
+אודות | Elite ERP
+
+### Jobs
+https://elite-erp-8cff4c64.zappy5.app/jobs
+דרושים | Elite ERP
+
+### צור קשר
+https://elite-erp-8cff4c64.zappy5.app/contact
+צור קשר | Elite ERP
+
+### פריוריטי פרו
+https://elite-erp-8cff4c64.zappy5.app/priority/priority-pro
+פריוריטי פרו | Elite ERP
+
+### בינוניים בישראל ובעולם
+https://elite-erp-8cff4c64.zappy5.app/priority/priority-zoom-זום-לעסקים
+בינוניים בישראל ובעולם | Elite ERP
+
+### פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/priority/מערכת-פריוריטי-תעשייתית
+פריוריטי תעשייתי | Elite ERP
+
+### Tech
+https://elite-erp-8cff4c64.zappy5.app/priority/priority-high-tech
+Tech | Elite ERP
+
+### פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/הטמעת-פריוריטי-ופריוריטי-זום
+הטמעת פריוריטי | Elite ERP
+
+### פריוריטי ענן
+https://elite-erp-8cff4c64.zappy5.app/priority-cloud
+פריוריטי ענן | Elite ERP
+
+### פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/פיתוח-וביצוע-התאמות-תוכנה-בפריוריטי
+פיתוח והתאמות תוכנה | Elite ERP
+
+### פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/הטמעת-מערכות-נלוות-לפריוריטי
+הטמעת מערכות נלוות | Elite ERP
+
+### לקוחות
+https://elite-erp-8cff4c64.zappy5.app/לקוחותינו
+לקוחותינו | Elite ERP
+
+### ממליצים על Elite ERP
+https://elite-erp-8cff4c64.zappy5.app/customer-satisfaction
+ממליצים על Elite ERP | Elite ERP
+
+### Projects
+https://elite-erp-8cff4c64.zappy5.app/projects
+Projects | Elite ERP
+
+### Elite ERP
+https://elite-erp-8cff4c64.zappy5.app/priority-blog/priority-course-bookkeepers
+Elite ERP | Elite ERP
+
+### מדריך פריוריטי להורדה
+https://elite-erp-8cff4c64.zappy5.app/info
+מדריך פריוריטי להורדה | Elite ERP
+
+### למד תוכנת פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/courses
+למד תוכנת פריוריטי | Elite ERP
+
+### פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/מוצרי-פריוריטי-2
+פריוריטי | Elite ERP
+
+### בינוניים בישראל ובעולם
+https://elite-erp-8cff4c64.zappy5.app/products/priority-zoom
+בינוניים בישראל ובעולם | Elite ERP
+
+### פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/מוצרי-פריוריטי/priority-pro
+פריוריטי | Elite ERP
+
+### פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/מוצרי-פריוריטי/מערכת-פריוריטי-תעשייתית
+פריוריטי | Elite ERP
+
+### Industrial Priority
+https://elite-erp-8cff4c64.zappy5.app/products/industrial-priority
+Industrial Priority | Elite ERP
+
+### פריוריטי פרו
+https://elite-erp-8cff4c64.zappy5.app/products/commercial-priority
+פריוריטי פרו | Elite ERP
+
+### ERP
+https://elite-erp-8cff4c64.zappy5.app/blog/priority-zoom-differences
+ERP | Elite ERP
+
+### פריוריטי
+https://elite-erp-8cff4c64.zappy5.app/מוצרי-פריוריטי/priority-zoom-זום-לעסקים
+פריוריטי | Elite ERP
+
+### Elite ERP
+https://elite-erp-8cff4c64.zappy5.app/blog/priority-assimilation
+הטמעת פריוריטי | Elite ERP
+
+### Elite ERP
+https://elite-erp-8cff4c64.zappy5.app/blog/choosing-erp-system-implementer
+בחירת מטמיע ERP | Elite ERP
+
+### פריוריטי פרו
+https://elite-erp-8cff4c64.zappy5.app/products/priority-pro
+פריוריטי פרו | Elite ERP
+
+## Legal & Policy
+
+### Privacy Policy
+https://elite-erp-8cff4c64.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://elite-erp-8cff4c64.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://elite-erp-8cff4c64.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Elite ERP
+Elite ERP is a specialized Israeli company focused on implementing and deploying the Priority ERP system for businesses. The company positions itself as an expert in this niche software solution, helping organizations integrate and optimize their operations through Priority. The brand carries a professional, technology-driven identity with a focus on business efficiency and expertise.
+
+## Target Audience
+General audience
+
+## Industry
+טכנולוגיית מידע / תוכנה עסקית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://elite-erp-8cff4c64.zappy5.app/sitemap.xml
+- **Robots.txt**: https://elite-erp-8cff4c64.zappy5.app/robots.txt
